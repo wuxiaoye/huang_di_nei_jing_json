@@ -12,6 +12,16 @@
 
 2, 维护者如果有更新书籍内容, 在本地电脑修改内容, 打包好 json 文件, 再替换上来.
 
+### CDN加速
 
+格式 : https://cdn.jsdelivr.net/gh/用户名/仓库名/文件路径
+
+示例:
+
+https://cdn.jsdelivr.net/gh/wuxiaoye/huang_di_nei_jing_json/update_version.json
+
+https://cdn.jsdelivr.net/gh/wuxiaoye/huang_di_nei_jing_json/huang_di_nei_jing_mu_lu.json
+
+https://cdn.jsdelivr.net/gh/wuxiaoye/huang_di_nei_jing_json/huang_di_nei_jing_content.json
 
 
