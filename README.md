@@ -14,6 +14,7 @@
 
 ### CDN加速
 
+如果是github 仓库, 可以使用 jsdelivr CDN 加速, 
 格式 : https://cdn.jsdelivr.net/gh/用户名/仓库名/文件路径
 
 示例:
