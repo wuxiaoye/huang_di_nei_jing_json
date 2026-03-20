@@ -1,4 +1,4 @@
-# 黄帝内经-书籍-json文件
+# 黄帝内经-书籍-json文件（已停用）
 
 #### 介绍
 黄帝内经-书籍-json文件
@@ -26,3 +26,4 @@ https://cdn.jsdelivr.net/gh/wuxiaoye/huang_di_nei_jing_json@main/huang_di_nei_ji
 https://cdn.jsdelivr.net/gh/wuxiaoye/huang_di_nei_jing_json@main/huang_di_nei_jing_content.json
 
 
+【jsdelivr CDN 加速被大量滥用，国内访问还是不稳定，此方案不行，已转为其他平台。】
